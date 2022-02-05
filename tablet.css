@@ -1,0 +1,84 @@
+.columns{
+   justify-content: center;
+padding-left: 20px;
+background-color: plum;
+
+}
+.box{
+    height:200px;
+    width: 400px;
+    background-color:plum;
+    /* opacity: 0.8; */
+    
+    color:rgb(41, 28, 39);
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+   
+}
+
+.box h2{
+  
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+.box p{
+
+    font-size: 1rem;
+}
+/* my image */
+.about img{
+    padding: 0px 20px;
+    width: 400px;
+    height: 300px;
+}
+.name {
+    padding: 5px;
+}
+.name h2 {
+    font-size: 1.5rem;
+}
+.name p{
+    font-size: 1rem;
+}
+/* skill bar */
+.container{
+    width: 600px;
+    background-color: bisque;
+    align-items: center;
+    justify-content: space-between;
+}
+#skills{
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom:  10px; 
+    color: #800000;
+    background-color: plum;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+#skills h1{
+    text-align: center;
+    background-color: plum;
+    padding-top: 300px;
+    padding-bottom: 80px;
+}
+.html{
+    width: 90%;
+    background-color: slateblue;
+}
+.css{
+    width: 75%;
+    background-color: olive;
+}
+.js{
+    width: 50%;
+    background-color: darkkhaki;
+}
+.cpp{
+    width: 80%;
+    background-color: coral;
+}
+

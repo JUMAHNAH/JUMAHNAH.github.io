@@ -1,0 +1,25 @@
+/* boxes */
+.columns{
+    grid-template-columns: auto;
+    justify-content: center;
+}
+
+.box{
+    height:100%;
+    width: 100%;
+    background-color:plum;
+    /* opacity: 0.8; */
+    
+    color:rgb(41, 28, 39);
+    border-radius: 20px;
+    margin: 10px;
+   
+}
+
+.box h2{
+    color: #800000;
+    font-size: 2.5rem;
+}
+.box p{
+    color: #3a233a;
+    font-size: 1.1rem;}
