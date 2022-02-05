@@ -33,7 +33,7 @@
 }
 /* boxes */
 .box{
-    height:150px;
+    height:182px;
     width: 250px;
     background-color:plum;
     /* opacity: 0.8; */
@@ -56,7 +56,7 @@
 
     /* skills */
     .container{
-        width: 400px;
+        width: 320px;
         background-color: bisque;
         align-items: center;
         justify-content: space-between;
