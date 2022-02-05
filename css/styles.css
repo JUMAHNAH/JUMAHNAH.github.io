@@ -120,6 +120,7 @@ list-style: none;
    background-color: plum;
    justify-content: space-between;
    align-items: center;
+    padding-bottom:50px;
 }
 #education h1{
    padding: 5%;
@@ -127,18 +128,24 @@ list-style: none;
     justify-content: space-between;
     align-items: center;
     background-color: plum;
+    margin:0;
     
 }
 #education h2{
     font-family: 'Dongle', sans-serif;
     padding: 5%;
+     background-color: plum;
 
+}
+.heading h1{
+    background-color: plum;
 }
 .columns{
     display: grid;
 grid-template-columns: auto auto;
 padding-left: 50px;
 background-color: plum;
+    margin: 0;
 
 }
 .box{
@@ -294,7 +301,7 @@ background-color: plum;
 }
 #skills{
     text-align: left;
-    padding-top: 10px;
+    padding-top: 102px;
     padding-bottom:  10px; 
     color: #800000;
     background-color: plum;
