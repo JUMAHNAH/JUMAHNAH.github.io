@@ -23,3 +23,46 @@
 .box p{
     color: #3a233a;
     font-size: 1.1rem;}
+
+/* skills */
+    .container{
+        width: 200px;
+        background-color: bisque;
+        align-items: center;
+        justify-content: space-between;
+    }
+    #skills{
+        text-align: left;
+        padding-top: 10px;
+        padding-bottom:  10px; 
+        color: #800000;
+        background-color: plum;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    flex-direction: column;
+    }
+    #skills h1{
+        text-align: center;
+        background-color: plum;
+         padding-top: 50px;
+        padding-bottom: 50px; 
+        margin-top: 100px;
+    }
+    .html{
+        width: 90%;
+        background-color: slateblue;
+    }
+    .css{
+        width: 75%;
+        background-color: olive;
+    }
+    .js{
+        width: 50%;
+        background-color: darkkhaki;
+    }
+    .cpp{
+        width: 80%;
+        background-color: coral;
+    }
+    
